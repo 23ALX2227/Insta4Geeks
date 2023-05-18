@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #bdbcbc;
+}
+
+img {
+    width:100%;
+    height:350px
+}
+
+h1 {
+    background-color: blanchedalmond;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 8%;
+    
+    
+}
+
+.body-center {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.subTitle-date-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.subTitle-date-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.subTitle-date-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.subTitle-date-4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.photo-1 {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-color: blanchedalmond;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3%;
+    
+}
+
+.photo-2 {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-color: blanchedalmond;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3%;
+}
+.photo-3 {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-color: blanchedalmond;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3%;
+}
+.photo-4 {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    background-color: blanchedalmond;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 3%;
+}
+
